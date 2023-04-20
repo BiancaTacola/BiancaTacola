@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá mundo, eu sou a Bianca Tacola!
 
-<!--
-**BiancaTacola/BiancaTacola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	👩🏻‍🎓Hoje sou aluna da FIAP do curso de Análise e desenvolvimento de sistemas!
+
+•	🔭 Sou uma pessoa muito curiosa e estou em busca de desenvolvimento profissional para a área de tecnologia.
+
+•	🖧 Para isso estou aprendendo linguagens: Python e JavaSript
+
+•	📐 Como arquiteta aprendi muito sobre desenvolvimento gestão e desenvolvimento de projetos
+
+•	🧶Por ser uma pessoa muito criativa, nas horas vagas faço Amigurumes , roupas e acessórios em crochet. 
+
+•	🐩 I love dogs and especially my dog Mel
+
+•	📫 biancae.souzaa@gmail.com
