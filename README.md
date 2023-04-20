@@ -6,12 +6,12 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 
 •	🔭 Sou uma pessoa muito curiosa e estou em busca de desenvolvimento profissional para a área de tecnologia. 
 
-•	🖧 Para isso estou aprendendo linguagens:<div style="display: inline_block"><br>
+•	🖧 Para isso estou aprendendo as linguagens:<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 •	📐 Como arquiteta aprendi muito sobre gestão e desenvolvimento de projetos
 
-•	🧶Por ser uma pessoa muito criativa, nas horas vagas faço Amigurumes , roupas e acessórios em crochet. 
+•	🧶Por ser uma pessoa muito criativa, nas horas vagas faço Amigurumis , roupas e acessórios em crochet. 
 
 •	🐩 I love dogs and especially my dog Mel
 
@@ -27,3 +27,4 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaTacola&show_icons=true)
+
