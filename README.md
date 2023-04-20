@@ -1,4 +1,4 @@
-Olá mundo, eu sou a Bianca Tacola!
+**Olá mundo, eu sou a Bianca Tacola!**
 
 Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. 
 
@@ -9,7 +9,7 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 
 •	🖧 Para isso estou aprendendo linguagens: Python e JavaSript
 
-•	📐 Como arquiteta aprendi muito sobre desenvolvimento gestão e desenvolvimento de projetos
+•	📐 Como arquiteta aprendi muito sobre gestão e desenvolvimento de projetos
 
 •	🧶Por ser uma pessoa muito criativa, nas horas vagas faço Amigurumes , roupas e acessórios em crochet. 
 
