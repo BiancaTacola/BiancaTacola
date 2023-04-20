@@ -17,5 +17,4 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 
 •	📫 biancae.souzaa@gmail.com
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaTacola)](https://github.com/anuraghazra/github-readme-stats)
