@@ -1,3 +1,4 @@
+
 **Olá mundo, eu sou a Bianca Tacola!**
 
 Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. 
@@ -7,7 +8,7 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 
 •	🔭 Sou uma pessoa muito curiosa e estou em busca de desenvolvimento profissional para a área de tecnologia.
 
-•	🖧 Para isso estou aprendendo linguagens: Python e JavaSript
+•	🖧 Para isso estou aprendendo linguagens:  
 
 •	📐 Como arquiteta aprendi muito sobre gestão e desenvolvimento de projetos
 
@@ -15,7 +16,16 @@ Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imo
 
 •	🐩 I love dogs and especially my dog Mel
 
-•	📫 biancae.souzaa@gmail.com
+•	📫 Contatos:
+
+<div> 
+  <a href="https://instagram.com/biancasouza_tacola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://discord.gg/Bianca Souza#3851" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:biancae.souzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bianca-souza-tacola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 
 ##
 
