@@ -27,6 +27,6 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=BiancaTacola.BiancaTacola)](https://github.com/BiancaTacola/BiancaTacola)
 
-</html>
 
+</html>
 
