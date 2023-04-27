@@ -25,8 +25,5 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaTacola&show_icons=true&theme=transparent)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BiancaTacola.BiancaTacola)](https://github.com/BiancaTacola/BiancaTacola)
-
-
 </html>
 
