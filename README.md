@@ -33,3 +33,7 @@
 
   
 </html>
+
+<div align="center">
+  <img src="https://github.com/BiancaTacola/BiancaTacola/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+</div>
