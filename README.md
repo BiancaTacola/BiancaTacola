@@ -2,10 +2,11 @@
 **👋Olá mundo, eu sou a Bianca Tacola!** 
 
 <html>
+  
 <head>
-
 <p>Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. </p>
 </head>
+  
 <p>👩🏻‍🎓Hoje sou aluna da FIAP do curso de Análise e desenvolvimento de sistemas! </p>
 <p>🔭 Sou uma pessoa muito curiosa e estou em busca de desenvolvimento profissional para a área de tecnologia. </p>
 <p>🖧 Para isso estou aprendendo as linguagens:
@@ -15,9 +16,11 @@
  <img align="center" alt="Rafa-Js" height="30" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img align="center" alt="Rafa-Js" height="30" width="70" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></p>
 
 <p>📐 Como arquiteta aprendi muito sobre gestão e desenvolvimento de projetos. </p>
+  
+##
 
-<p>📫 Contatos: </p>
-<p></p>
+<h4>📫 Contatos: </h4>
+
   <a href="https://instagram.com/biancasouza_tacola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/Bianca Souza#3851" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/bianca-souza-tacola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -31,7 +34,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaTacola&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /></div>
 
 ##
-**👋Fluxo de trabalho!** 👩‍💻👩‍💻
+<h4>👩‍💻 Fluxo de trabalho!</h4> 
 <div align="center">
   <img src="https://github.com/BiancaTacola/BiancaTacola/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
