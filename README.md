@@ -1,16 +1,15 @@
 <html>
   <head>
-    <h3 align="center">👋Olá mundo, eu sou a Bianca Tacola👋</h3>
+    <h3 align="center">:leaves:Olá mundo, eu sou a Bianca Tacola:leaves:</h3>
   </head>
   <body>
     <div>
-    <p>👉Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. </p>  
+    <p>:star:Sou Arquiteta e urbanista com experiência em gestão de projetos no mercado imobiliário, busco levar minhas habilidades de resolução de problemas e pensamento criativo para a área de tecnologia. </p>  
     <p>👩🏻‍🎓Hoje sou aluna da FIAP do curso de Análise e desenvolvimento de sistemas e estou em busca de desenvolvimento profissional para a área de tecnologia. </p>
     <p>🖧 Para isso estou aprendendo as linguagens:<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></p>
     <p>📊Além de manipulação e Análise de Banco de dados lógicos e físicos, utilizando:<img align="center" alt="Mysql" height="30" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img align="center" alt="oracle" height="30" width="70" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></p>
     <p>👉 Tenho me dedicado ao aprendizado de desenvolvimento de páginas web, utilizando tecnologias:<img alt="Figma" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img  alt="HTML5" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  alt="CSS" height="30" width="70"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img  alt="bootstrap" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></p>
-    <p>📐 Como arquiteta aprendi muito sobre gestão e desenvolvimento de projetos. </p>
-  
+     
 ##
 <div>
 <h4>📫 Contatos: </h4>
