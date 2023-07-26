@@ -24,3 +24,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
+  
+  - nome: Cache
+  usa: ações/cache@v1.2.1
+  com:
+    # Um diretório para armazenar e salvar o cache
+    caminho:
+    # Uma chave explícita para restaurar e salvar o cache
+    chave:
+    # Uma lista ordenada de chaves a serem usadas para restaurar o cache se nenhuma ocorrência de cache ocorreu para a chave
+    chaves de restauração: # opcional
