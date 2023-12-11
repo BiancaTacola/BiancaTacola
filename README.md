@@ -1,6 +1,6 @@
 <html>
   <head>
-    <h3 align="center">:leaves:Hello world, I'm Bianca Tacola:leaves:</h3>
+    <h3 align="center">🍃Hello world, I'm Bianca Tacola🍃</h3>
   </head>
   <body>
     <div>
