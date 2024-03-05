@@ -17,8 +17,10 @@
 
 ##
 <div>
-<h4>📫 Contacts: <a href="https://www.linkedin.com/in/bianca-souza-tacola/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.salesforce.com/trailblazer/bstacola" target="_blank"><img align="center" img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" /></a></h4> </div>       
+<h4>📫 Contacts: <a href="https://www.linkedin.com/in/bianca-souza-tacola/"><img align="center" style="margin-right:30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+ <a href="https://www.salesforce.com/trailblazer/bstacola" target="_blank"><img align="center" height="80" width="80" style="margin-right:10"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" /></a>
+  <a href="https://www.kaggle.com/biancatacola" target="_blank"><img align="center" style="margin-right:10" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" /></a>
+</h4> </div>       
 
 
 ##
