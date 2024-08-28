@@ -1,7 +1,8 @@
 <html>  
-  <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393959&width=435&lines=Hello+World%2C+I+am+Bianca+Tacola!!" alt="Typing Animation">
+  <div align="center">     
+  <img height="80" width="80" src="femalecodertocat.png"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393959&width=435&lines=Hello+World%2C+I+am+Bianca+Tacola!!" alt="Typing Animation">
   </div>
+
    <div>
     <p>:star:I am an architect and urban planner with experience in project management and I'm in a career transition to the technology area!</p>  
     <p>👩🏻‍🎓Today I am a student at FIAP in the Systems Analysis and Development course. </p>
