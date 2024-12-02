@@ -5,7 +5,7 @@
 
 ##    
    <div>    
-    <p>👩🏻‍🎓 91.67% Systems Analysis and Development </p> 
+    <p>Systems Analysis and Development </p> 
    </div>
   
 ##   
