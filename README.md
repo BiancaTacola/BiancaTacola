@@ -5,53 +5,50 @@
   </div>
 
 <div align="center">
-  <h3>🚀 IT Project Manager | Delivery Manager | Agile Expert | IA Generativa</h3>
-  <p>Transformando necessidades de negócio em soluções tecnológicas robustas através de liderança ágil e inovação.</p>
+  <h4>🚀 IT Project Manager | Delivery Manager | Agile Expert | IA Generativa</h4>
+  <p>Transformando necessidades de negócio em soluções tecnológicas através de liderança ágil e inovação.</p>
 </div>
 
 ---
 
-### 👩‍💻 Sobre Mim
-Sou **Gerente de Projetos de TI** com sólida experiência na condução end-to-end de iniciativas estratégicas de transformação digital, evolução de produtos e migração de sistemas. Atualmente, gerencio squads multidisciplinares no setor de Telecom (Vivo), atuando na interface direta entre negócio e tecnologia.
+### <h4>👩‍💻 Sobre Mim</h4>
+Sou **Gerente de Projetos de TI** (Vivo) com experiência end-to-end em transformação digital, evolução de produtos e migração de sistemas complexos[cite: 1]. Atuo na interface entre negócio e tecnologia liderando squads multidisciplinares[cite: 1]. Com mais de 10 anos de bagagem prévia liderando projetos de grande porte[cite: 1], uno visão estratégica, governança e agilidade para garantir entregas de alto valor[cite: 1].
 
-Anteriormente, construí uma trajetória de mais de 10 anos em Arquitetura e Urbanismo liderando grandes projetos, o que moldou minha visão analítica, capacidade de negociação e gestão de stakeholders em ambientes complexos.
-
-* 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas (FIAP) e MBA em Gestão de Projetos (USP/Esalq).
-* 🧠 **Momento Atual:** Estudante da pós-graduação em **Agentes de IA** pela FIAP, focando na aplicação prática de Inteligência Artificial para otimização de processos, governança e eficiência em gestão de projetos.
+* 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas (FIAP) e MBA em Gestão de Projetos (USP/Esalq)[cite: 1].
+* 🧠 **Momento Atual:** Cursando pós-graduação em **Agentes de IA** (FIAP), focada em otimização de processos e governança em gestão de projetos[cite: 1].
 
 ---
 
-### 🛠️ Competências & Ferramental
+### 🛠️ <h4>Competências & Ferramental</h4>
 
-#### 🗂️ Gestão, Agilidade e Governança
+#### <h5> 🗂️Gestão, Agilidade e Governança</h5>
 <p>
-  <img src="https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-blue?style=for-the-badge" alt="Ágil">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/PMO-%26%20Governança-333?style=for-the-badge" alt="PMO">
+  <img src="https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-blue?style=flat" alt="Ágil">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/PMO-%26%20Governança-333?style=flat" alt="PMO">
 </p>
 
-#### 🤖 Inteligência Artificial, Dados e Base Técnica
-Conhecimentos focados no ecossistema de dados e inovação para apoiar as decisões arquiteturais das squads:
+#### <h5>🤖 Inteligência Artificial, Dados e Base Técnica</h5>
 <p>
-  <img src="https://img.shields.io/badge/AI_Agents-FIAP_Pós_Tech-red?style=for-the-badge" alt="Agentes de IA">
-  <img src="https://img.shields.io/badge/Generative_AI-Prompt_Eng-orange?style=for-the-badge" alt="IA Generativa">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="MySQL" height="30" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Oracle" height="30" width="70" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-FIAP_Pós_Tech-red?style=flat" alt="Agentes de IA">
+  <img src="https://img.shields.io/badge/Generative_AI-Prompt_Eng-orange?style=flat" alt="IA Generativa">
+  <img alt="Python" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 </p>
 
 ---
 
-### 📫 Conecte-se Comigo
+### </h5>📫 Conecte-se Comigo<h5>
 <div>
-  <h4>
+  <p>
     <a href="https://www.linkedin.com/in/bianca-souza-tacola/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:15px">
+      <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" style="margin-right:10px">
     </a>
     <a href="https://www.salesforce.com/trailblazer/bstacola" target="_blank">
-      <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+      <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
     </a>
-  </h4>
+  </p>
 </div>  
 
 ---
