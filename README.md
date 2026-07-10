@@ -5,7 +5,13 @@
   </div>
 
 <div align="center">
-  <h5>🚀 IT Project Manager | Delivery Manager | Agile Expert | IA Generativa</h5>
+  <h5>🚀 IT Project Manager | Delivery Manager | Agile Expert | Generative AI</div>
+
+
+👩‍💻 About Me
+- 🎓 Bachelor's Degree in **Systems Analysis and Development**.
+- 📚 MBA in **Project Management**.</h5>
+- 🤖 Currently pursuing a **Postgraduate Tech Program (Postech) in Artificial Intelligence and AI Agents**.</h5>
 </div>
 
 <div align="center">
@@ -15,6 +21,9 @@
     </a>
   </h5>
 </div>
+
+---
+
 
 ##
 </html>
